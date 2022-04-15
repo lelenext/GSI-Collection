@@ -1,2 +1,3 @@
 # GSI-Collection
-This is lelenext's GSI Collection
+
+[GSI Collection Wiki Link](https://github.com/lelenext/GSI-Collection/wiki)
