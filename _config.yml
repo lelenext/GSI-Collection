@@ -8,10 +8,10 @@ theme: jekyll-theme-cayman
 title: GSI Collection
 
 # Subtitle 副標題
-subtitle: 通用系統映像合集
+# subtitle: 通用系統映像合集
 
 # Author 作者
 author: lelenext
 
 # Description 描述
-# description: 就一收集站點有啥好描述的 :p
+description: 通用系統映像合集
