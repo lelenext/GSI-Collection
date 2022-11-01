@@ -1,17 +1,19 @@
 # Page Configurations
-# Oct 31, 2022
+# Created in Oct 31, 2022
+# version: 0.3
 
 # Theme 主題
 theme: jekyll-theme-cayman
+# remote_theme: pages-themes/cayman@v0.2.0
 
 # Title 標題
 title: GSI Collection
 
-# Subtitle 副標題
-# subtitle: 通用系統映像合集
+# Description 描述
+description: 通用系統映像合集
 
 # Author 作者
 author: lelenext
 
-# Description 描述
-description: 通用系統映像合集
+# 提供下载 URL
+show_downloads: true
