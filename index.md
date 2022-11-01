@@ -1,3 +1,10 @@
+---
+# Title 標題
+title: GSI Collection
+# Description 描述
+description: 通用系統映像合集
+---
+
 ¶ [Home](./) | [ROM List](./docs/all-roms.md) | [GSI List](./docs/dl-aoslevel.md) | [Thanks](./docs/thanks.md) | [Changelog](./docs/changelog.md)
 ---
 
@@ -37,12 +44,12 @@
 
 ## Footnote | 註腳
 
-- [^1]:Name 「名稱」
-  [^2]:Device Architecture「設備處理器架構」
-  [^3]: Version「版本」
-  [^4]: Build Time 「編譯日期」
-  [^5]: A-only & AB
-  [^6]: GApps 「谷歌服務套件」
-  [^7]: Superuser 「超級使用者」
-  [^8]: r/w 「可讀寫」
-  [^9]: Other「其他」
+[^1]:Name 「名稱」
+[^2]:Device Architecture「設備處理器架構」
+[^3]: Version「版本」
+[^4]: Build Time 「編譯日期」
+[^5]: A-only & AB
+[^6]: GApps 「谷歌服務套件」
+[^7]: Superuser 「超級使用者」
+[^8]: r/w 「可讀寫」
+[^9]: Other「其他」
