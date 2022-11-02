@@ -33,26 +33,26 @@ What is GSI? | 什麽是 GSI？
 GSI Naming Rules | GSI 命名規則
 ---
 
-- **e.g. exTHmUI[^1]-arm64[^2]-11.0[^3]-20211211[^4]-b[^5]v[^6]N[^7]-vndklite[^8]-other[^9].img**
+- **e.g. exTHmUI-arm64-11.0-20211211-bvN-vndklite-other.img**
 
-|   Name 名稱   | Info 詳情                                                    |
-| :-----------: | ------------------------------------------------------------ |
-|  exTHmUI[^1]  | ROM name 「ROM 名稱」                                        |
-| **arm64[^2]** | **Device architecture 「設備處理器架構」<br>1. arm64: ARM 64-bit<br>2. a64: ARM 32-bit with 64-bit binder<br>3. arm: ARM 32-bit** |
-|   11.0[^3]    | ROM version 「ROM 版本」                                     |
-| 20211211[^4]  | Build time 「編譯日期」                                      |
-|   **b[^5]**   | **a: A-only (system-as-system)<br>b: A/B (system-as-root)**  |
-|   **v[^6]**   | **v: Vanilla (No GApps included) 「不包含谷歌服務套件」<br>g: GApps 「包含谷歌服務套件」<br>o: GApps Go 「Android Go 谷歌服務套件」<br>f: Foss (Free & open source apps instead GApps) 「使用開源應用代替 GApps」** |
-|   **N[^7]**   | **N: No superuser 「無超級使用者」<br/>S: Phh Superuser included 「包含超级使用者」<br/>Z: Dynamic superuser (Root can be enabled/disabled during use) 「動態超級使用者（Root 權限可隨時啟用/禁用）** |
-| vndklite[^8]  | VNDKLite/Lite: /system is read/write 「/system 分區可讀寫」  |
-|   other[^9]   | secure: Remove Superuser and spoof system props for passing SafetyNet 「移除超級使用者和欺騙系統以通過 SafetyNet 測試」 |
+| Name 名稱 | Info 詳情                                                    |
+| :-------: | ------------------------------------------------------------ |
+|  exTHmUI  | ROM name 「ROM 名稱」                                        |
+| **arm64** | **Device architecture 「設備處理器架構」<br>1. arm64: ARM 64-bit<br>2. a64: ARM 32-bit with 64-bit binder<br>3. arm: ARM 32-bit** |
+|   11.0    | ROM version 「ROM 版本」                                     |
+| 20211211  | Build time 「編譯日期」                                      |
+|   **b**   | **a: A-only (system-as-system)<br>b: A/B (system-as-root)**  |
+|   **v**   | **v: Vanilla (No GApps included) 「不包含谷歌服務套件」<br>g: GApps 「包含谷歌服務套件」<br>o: GApps Go 「Android Go 谷歌服務套件」<br>f: Foss (Free & open source apps instead GApps) 「使用開源應用代替 GApps」** |
+|   **N**   | **N: No superuser 「無超級使用者」<br/>S: Phh Superuser included 「包含超级使用者」<br/>Z: Dynamic superuser (Root can be enabled/disabled during use) 「動態超級使用者（Root 權限可隨時啟用/禁用）** |
+| vndklite  | VNDKLite/Lite: /system is read/write 「/system 分區可讀寫」  |
+|   other   | secure: Remove Superuser and spoof system props for passing SafetyNet 「移除超級使用者和欺騙系統以通過 SafetyNet 測試」 |
 
-How to flash GSI? | 如何刷入 GSI？
+How to flash GSI? | 如何刷入 GSI？ 
 ---
 
-- Download & install “Low Level Detector” from [*GitHub*](https://github.com/imknown/AndroidLowLevelDetector/releases) or [*Google Play*](https://play.google.com/store/apps/details?id=net.imknown.android.forefrontinfo);
+- Download & install “Low Level Detector” from [GitHub](https://github.com/imknown/AndroidLowLevelDetector/releases) or [Google Play](https://play.google.com/store/apps/details?id=net.imknown.android.forefrontinfo);
 
-  從 [*GitHub*](https://github.com/imknown/AndroidLowLevelDetector/releases) 或者 [*Google Play*](https://play.google.com/store/apps/details?id=net.imknown.android.forefrontinfo) 下載並安裝「底層探測器」；
+  從 [GitHub](https://github.com/imknown/AndroidLowLevelDetector/releases) 或者 [Google Play](https://play.google.com/store/apps/details?id=net.imknown.android.forefrontinfo) 下載並安裝「底層探測器」；
 
   ![img](https://raw.githubusercontent.com/lelenext/GSI-Collection/main/pics/index/img_202211021211pm-lld.png)
 
