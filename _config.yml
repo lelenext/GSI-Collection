@@ -1,6 +1,6 @@
 # Page Configurations
 # Created in Oct 31, 2022
-# version: 0.3
+# version: 0.4	Nov 2, 2022 11:38 AM
 
 # Theme 主題
 theme: jekyll-theme-cayman
@@ -16,4 +16,4 @@ description: 通用系統映像合集
 author: lelenext
 
 # 提供下载 URL
-show_downloads: true
+show_downloads: false
