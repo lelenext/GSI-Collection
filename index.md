@@ -7,7 +7,9 @@ description: 通用系統映像合集
 layout: default
 ---
 
-¶ [Home](./) | [ROM List](./docs/all-roms.md) | [GSI List](./docs/dl-aoslevel.md) | [Thanks](./docs/thanks.md) | [Changelog](./docs/changelog.md)
+¶ [Home](./) | [ROM List](./docs/dl-roms.md) | [GSI List](./docs/dl-aoslevel.md) | [Thanks](./docs/thanks.md) | [Changelog](./docs/changelog.md)
+---
+
 ---
 
 (｡･∀･)ﾉﾞHi~
@@ -45,7 +47,7 @@ GSI Naming Rules | GSI 命名規則
 |   **`v`**   | **`v`: Vanilla (No GApps included) 「不包含谷歌服務套件」<br>`g`: GApps 「包含谷歌服務套件」<br>`o`: GApps Go 「Android Go 谷歌服務套件」<br>`f`: Foss (Free & open source apps instead GApps) 「使用開源應用代替 GApps」** |
 |   **`N`**   | **`N`: No superuser 「無超級使用者」<br/>`S`: Phh Superuser included 「包含超级使用者」<br/>`Z`: Dynamic superuser (Root can be enabled/disabled during use) 「動態超級使用者（Root 權限可隨時啟用/禁用）** |
 | `vndklite`  | `VNDKLite`/`Lite`: /system is read/write 「/system 分區可讀寫」 |
-|   `other`   | `secure`: Remove Superuser and spoof system props for passing SafetyNet 「移除超級使用者和欺騙系統以通過 SafetyNet 測試」 |
+|   `other`   | `Slim`: Cut some GApps services 「削減部分谷歌服務組件」<br>`secure`: Remove Superuser and spoof system props for passing SafetyNet 「移除超級使用者和欺騙系統以通過 SafetyNet 測試」 |
 
 How to flash GSI? | 如何刷入 GSI？ 
 ---
