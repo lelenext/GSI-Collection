@@ -36,6 +36,7 @@ Android 12.1 / Android 12L (API 32)
 |     *@E_o_Braia*     |    **PixelOS**     | [*v12.1*](https://sourceforge.net/projects/braiagsi/files/PixelOS_12/) |          `arm64` `AB` `GApps/Slim`           |             [*TG*](https://t.me/treblegsis/1668)             |
 |     *@TheAtt1la*     |    **PixysOS**     | [*v5.15*](https://sourceforge.net/projects/thegsis/files/PixysOS/) |      `arm64` `AB` `Vanilla` `VNDKLite`       |          [*TG*](https://t.me/android12begonia/1410)          |
 |     *@TheAtt1la*     |     **StagOS**     | [*v12.1*](https://sourceforge.net/projects/thegsis/files/StagOS/) |   `arm64` `AB` `Vanilla/GApps` `VNDKLite`    |             [*TG*](https://t.me/treblegsis/1662)             |
+|     *@ChonDoe*     |     **CherishOS**     | [*v3.9*](https://drive.google.com/uc?id=1y6IZLJPIoHMT0PWZFqhcC7Cf6g9-IFsZ&export=download) |   `arm64` `AB` `Vanilla` `VNDKLite`    |             [*TG*](https://t.me/android12begonia/1246)             |
 
 Android 12 (API 31)
 ---
