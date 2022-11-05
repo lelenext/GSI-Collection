@@ -7,7 +7,7 @@ description: Sort by Android Level
 layout: default
 ---
 
-¶ [Home](./) | [ROM List](./all-roms.md) | [GSI List](./dl-aoslevel.md) | [Thanks](./thanks.md) | [Changelog](./changelog.md)
+¶ [Home](../) | [ROM List](./all-roms.md) | [GSI List](./dl-aoslevel.md) | [Thanks](./thanks.md) | [Changelog](./changelog.md)
 ---
 
 ---
@@ -44,10 +44,6 @@ Android 12 (API 31)
 | Maintainer<br>維護者 | ROM  | Download<br>下載 | Architecture & Other<br>處理器架構 & 其他 | Changelog<br>更新日志 |
 | :------------------: | :--: | :--------------: | :---------------------------------------: | :-------------------: |
 |                      |      |                  |                                           |                       |
-|                      |      |                  |                                           |                       |
-|                      |      |                  |                                           |                       |
-|                      |      |                  |                                           |                       |
-|                      |      |                  |                                           |                       |
 
 Android 11 (API 30)
 ---
@@ -55,8 +51,3 @@ Android 11 (API 30)
 | Maintainer<br>維護者 |     ROM      |                       Download<br>下載                       | Architecture & Other<br>處理器架構 & 其他 |         Changelog<br>更新日志         |
 | :------------------: | :----------: | :----------------------------------------------------------: | :---------------------------------------: | :-----------------------------------: |
 |     *@E_o_Braia*     | **Havoc-OS** | [*v4.19*](https://sourceforge.net/projects/braiagsi/files/HavocOS/4.19/) |    `arm64` `A/AB` `Vanilla` `VNDKLite`    | [*TG*](https://tx.me/treblegsis/1678) |
-
-
-
-<details><summary></summary>
-</details>
